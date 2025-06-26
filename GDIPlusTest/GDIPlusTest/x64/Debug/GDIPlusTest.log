@@ -1,0 +1,4 @@
+﻿  GDIPlusTest.cpp
+C:\Users\david\Desktop\projekt nr.3\GDIPlusTest\GDIPlusTest\GDIPlusTest.cpp(93,41): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+C:\Users\david\Desktop\projekt nr.3\GDIPlusTest\GDIPlusTest\GDIPlusTest.cpp(93,20): warning C4244: "argument": konwersja z "int" do "Gdiplus::REAL", możliwa utrata danych
+  GDIPlusTest.vcxproj -> C:\Users\david\Desktop\projekt nr.3\GDIPlusTest\x64\Debug\GDIPlusTest.exe
